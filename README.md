@@ -1,6 +1,18 @@
 # CS-320-Software Testing, Automation, and Quality Assurance Portfolio
 
+**Course:** CS-320: Software Testing, Automation, and Quality Assurance  
+**Student:** Moe Holder  
+**Date:** February 2026
 
+## Portfolio Artifact
+
+This repository contains my work from CS 320, where I developed comprehensive unit tests for a mobile application using JUnit framework. This deliverable demonstrates my ability to create functional and secure code through systematic testing, apply appropriate testing strategies based on requirements, and ensure software quality through thorough test coverage.
+
+## Included Documents:
+- **Contact Service Files** (Contact.java, ContactService.java, ContactTest.java, ContactServiceTest.java)
+- **Summary and Reflections Report** (analysis of testing approach, techniques, and professional mindset)
+
+  
 **How can I ensure that my code, program, or software is functional and secure?**
   
   I focus on good software engineering principles and disciplined development practices to ensure my program is both functional and secure. One approach I follow is the practice of “code a little, test a little,” which means I write a small portion of code and immediately create test cases to validate that it works as expected before moving forward. This prevents me from writing large sections of untested code and later having to debug and find the root cause of multiple errors.
